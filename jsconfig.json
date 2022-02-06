@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./preview_galoo_front",
+    "paths": {
+      "~/*": ["./*"],
+      "@/*": ["./*"],
+      "~~/*": ["./*"],
+      "@@/*": ["./*"]
+    }
+  },
+  "exclude": ["node_modules",
+    ".nuxt", "dist"]
+}
