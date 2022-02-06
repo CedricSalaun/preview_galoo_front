@@ -9,7 +9,7 @@
     "generate": "nuxt generate",
     "lint:js": "eslint --ext \\\".js,.ts,.vue\\\" --ignore-path .gitignore .",
     "lint:style": "stylelint \\\"**/*.{css,scss,sass,html,vue}\\\" --ignore-path .gitignore",
-    "lint:prettier": "prettier --check preview_galoo_front",
+    "lint:prettier": "prettier --check .",
     "lint": "npm run lint:js && npm run lint:style && npm run lint:prettier",
     "lintfix": "prettier --write --list-different preview_galoo_front && npm run lint:js -- --fix && npm run lint:style -- --fix",
     "prepare": "husky install",
