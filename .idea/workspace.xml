@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbfa7b93-26cc-45a3-84e4-f577b6ac888b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env.local" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/feed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/plugin-compiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/sitemap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/socialImages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/socialImages.template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plugins/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon-1024x1024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/sitemap.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Breadcrumbs/Breadcrumbs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Breadcrumbs/Breadcrumbs.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Breadcrumbs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Container/Container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Container/Container.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Container/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Content/Content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Content/Content.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Content/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FeaturedImage/FeaturedImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FeaturedImage/FeaturedImage.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FeaturedImage/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Image/Image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Image/Image.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Image/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Layout/Layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Layout/Layout.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Layout/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/Main.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Metadata/Metadata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Metadata/Metadata.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Metadata/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Nav/Nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Nav/Nav.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Nav/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavListItem/NavListItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavListItem/NavListItem.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavListItem/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Pagination/Pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Pagination/Pagination.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Pagination/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PostCard/PostCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PostCard/PostCard.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PostCard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Section/Section.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Section/Section.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Section/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SectionTitle/SectionTitle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SectionTitle/SectionTitle.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SectionTitle/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Title/Title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Title/Title.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Title/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/menus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/pages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/use-page-metadata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/use-search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/use-site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/apollo-client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/datetime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/json-ld.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/menus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/pages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/classname.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/[slugParent]/[[...slugChild]].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/_document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/authors/[slug].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/categories/[slug].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/posts/[slug].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/posts/page/[page].js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/_variables.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/components/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/components/_container.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/globals.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/pages/404.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/pages/Categories.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/pages/Home.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/pages/Page.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/pages/Post.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/settings/__settings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/settings/_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/settings/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/settings/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/templates/Archive.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/templates/archive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.husky/commit-msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.husky/pre-commit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commitlint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/NuxtLogo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Tutorial.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jest.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylelint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/NuxtLogo.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="24f3S66ocEuL0DcMtTVwDsn0trM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="go.format.on.save.advertiser.fired" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/layouts" />
+      <recent name="$PROJECT_DIR$/public/assets" />
+      <recent name="$PROJECT_DIR$/public/styles" />
+      <recent name="$PROJECT_DIR$/pages/layouts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/components" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/components/layouts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="lint:js" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint:js" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="lint:prettier" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint:prettier" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="lint:style" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint:style" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.lint:prettier" />
+        <item itemvalue="npm.lint:style" />
+        <item itemvalue="npm.lint:js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbfa7b93-26cc-45a3-84e4-f577b6ac888b" name="Changes" comment="" />
+      <created>1644007813104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644007813104</updated>
+      <workItem from="1644007815085" duration="2532000" />
+      <workItem from="1644079668195" duration="619000" />
+      <workItem from="1644149875535" duration="18558000" />
+      <workItem from="1644245445687" duration="5977000" />
+      <workItem from="1644262731536" duration="7293000" />
+      <workItem from="1644434882060" duration="2879000" />
+      <workItem from="1644606276620" duration="703000" />
+      <workItem from="1644607063637" duration="4963000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>

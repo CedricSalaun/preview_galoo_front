@@ -63,7 +63,7 @@ typings/
 .cache
 
 # next.js build output
-.next
+.next/
 
 # nuxt.js build output
 .nuxt
@@ -78,13 +78,5 @@ dist
 .serverless
 
 # IDE / Editor
-.idea
+.idea/
 
-# Service worker
-sw.*
-
-# macOS
-.DS_Store
-
-# Vim swap files
-*.swp

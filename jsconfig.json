@@ -1,12 +1,8 @@
 {
   "compilerOptions": {
-    "baseUrl": "./preview_galoo_front",
+    "baseUrl": "./src",
     "paths": {
-      "~/*": ["./*"],
-      "@/*": ["./*"],
-      "~~/*": ["./*"],
-      "@@/*": ["./*"]
+      "public/*": ["../public/*"]
     }
-  },
-  "exclude": ["node_modules", ".nuxt", "dist"]
+  }
 }
