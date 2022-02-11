@@ -80,3 +80,4 @@ dist
 # IDE / Editor
 .idea/
 
+.env.local
